@@ -1,2 +1,2 @@
-# minishell2
-Cambios de Dani
+# minishell
+Minishell 42 project
